@@ -1,10 +1,10 @@
-# dashboard-powerbi-vendas
-Projeto de dashboard em Power BI para análise de vendas
-
 # EN #
 # Sales Analysis Dashboard - Power BI 📊
 
 This project was developed as part of a Power BI course, focusing on the creation of interactive dashboards and data visualizations.
+
+## 📷 Screenshot 
+![Dashboard Preview](imagem_2025-03-26_204633398.png)
 
 ## 📝 About the Project
 This dashboard provides a sales analysis with:
@@ -38,6 +38,7 @@ Dashboard de vendas com:
 1. Faça o download do arquivo `.pbix`;
 2. Abra no Power BI Desktop.
    
-## 👨‍💻 Developed by
-Felipe Barretto  
-[LinkedIn](https://www.linkedin.com/in/felipe-barretto-990054304/)
+
+## 📬 Contact
+
+📧 Email: felipebarretto.ti@gmail.com 🔗 [LinkedIn](https://www.linkedin.com/in/felipe-barretto-990054304/)
